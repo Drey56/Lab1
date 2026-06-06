@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\andre\source\repos\Lab1\Sorts\main.cpp(20,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andre\source\repos\Lab1\Sorts\main.cpp(21,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andre\source\repos\Lab1\Sorts\main.cpp(22,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Sorts.vcxproj -> C:\Users\andre\source\repos\Lab1\x64\Debug\Sorts.exe

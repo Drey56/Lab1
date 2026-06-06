@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DataSetMaker/DataSetMaker.vcxproj" Id="97bf910f-745a-4c6a-94e4-05cc1c24783f" />
+  <Project Path="Sorts/Sorts.vcxproj" Id="e0cba20d-daa7-4524-99d5-b512b5ea8f6a" />
+</Solution>
